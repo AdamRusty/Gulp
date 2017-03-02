@@ -1,22 +1,22 @@
 {
-  "name": "accessibilityChecklist",
+  "name": "Gulp",
   "version": "1.0.0",
-  "description": "Creating a simple checklist with the ability to check of criteria once they have been met.",
+  "description": "Here I have created a simple gulpfile to use in web development projects.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdamRusty/accessibilityChecklist.git"
+    "url": "git+https://github.com/AdamRusty/Gulp.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "AdamRusty",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AdamRusty/accessibilityChecklist/issues"
+    "url": "https://github.com/AdamRusty/Gulp/issues"
   },
-  "homepage": "https://github.com/AdamRusty/accessibilityChecklist#readme",
+  "homepage": "https://github.com/AdamRusty/Gulp#readme",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
